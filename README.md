@@ -1,6 +1,11 @@
 ### Hi there my name is Dahiru Waziri Ahmed
 ### I am a Data Analyst
 I am also a GitHub campus expert
+- 🔭 I’m currently a Data Analyst
+- 👯 I’m looking to collaborate with data analysts
+- 🤔 I’m looking for help with a Data Analysis project
+- 📫 How to reach me: https://www.linkedin.com/in/Dahiru-Waziri-Ahmed
+- ⚡ Fun fact: I love reading
 <!--
 **Dahiruwaziri/Dahiruwaziri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

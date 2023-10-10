@@ -1,5 +1,6 @@
 ### Hi there my name is Dahiru Waziri Ahmed
-
+### I am a Data Analyst
+I am also a GitHub campus expert
 <!--
 **Dahiruwaziri/Dahiruwaziri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
